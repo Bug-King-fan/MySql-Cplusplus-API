@@ -1,0 +1,7 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(503,5): warning MSB8004: Output 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
+  二进制文件插入和读取.cpp
+E:\mysql_code\src\二进制文件插入和读取.cpp(40,5): warning C4267: “参数”: 从“size_t”转换到“unsigned long”，可能丢失数据
+E:\mysql_code\src\二进制文件插入和读取.cpp(58,22): warning C4244: “=”: 从“std::streamoff”转换到“int”，可能丢失数据
+E:\mysql_code\src\二进制文件插入和读取.cpp(70,21): warning C4244: “+=”: 从“std::streamsize”转换到“int”，可能丢失数据
+E:\mysql_code\src\二进制文件插入和读取.cpp(76,41): warning C4267: “=”: 从“size_t”转换到“unsigned long”，可能丢失数据
+  src.vcxproj -> E:\mysql_code\bin\src.exe
