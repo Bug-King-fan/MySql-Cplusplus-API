@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>E:\mysql_code\bin\test_mysql.exe</FullPath>
+      <FullPath>E:\Git\MySql-Cplusplus-API\mysql_code\bin\test_mysql.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />
