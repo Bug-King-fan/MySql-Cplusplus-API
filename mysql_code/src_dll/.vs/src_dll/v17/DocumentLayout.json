@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Git\\MySql-Cplusplus-API\\mysql_code\\src_dll\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B18F6A2-E0C0-498A-BF0F-2CC814607D50}|..\\test_mysql\\test_mysql.vcxproj|E:\\Git\\MySql-Cplusplus-API\\mysql_code\\test_mysql\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C82731-859F-4D79-B604-D6E9B9EAD66A}|src_dll.vcxproj|E:\\Git\\MySql-Cplusplus-API\\mysql_code\\src_dll\\src_dll.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{45C82731-859F-4D79-B604-D6E9B9EAD66A}|src_dll.vcxproj|solutionrelative:src_dll.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C82731-859F-4D79-B604-D6E9B9EAD66A}|src_dll.vcxproj|E:\\Git\\MySql-Cplusplus-API\\mysql_code\\src_dll\\DATA.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{45C82731-859F-4D79-B604-D6E9B9EAD66A}|src_dll.vcxproj|solutionrelative:DATA.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C82731-859F-4D79-B604-D6E9B9EAD66A}|src_dll.vcxproj|E:\\Git\\MySql-Cplusplus-API\\mysql_code\\src_dll\\DATA.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{45C82731-859F-4D79-B604-D6E9B9EAD66A}|src_dll.vcxproj|solutionrelative:DATA.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DATA.cpp",
+              "DocumentMoniker": "E:\\Git\\MySql-Cplusplus-API\\mysql_code\\src_dll\\DATA.cpp",
+              "RelativeDocumentMoniker": "DATA.cpp",
+              "ToolTip": "E:\\Git\\MySql-Cplusplus-API\\mysql_code\\src_dll\\DATA.cpp",
+              "RelativeToolTip": "DATA.cpp",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAAAJ0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2023-06-29T14:48:34.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DATA.h",
+              "DocumentMoniker": "E:\\Git\\MySql-Cplusplus-API\\mysql_code\\src_dll\\DATA.h",
+              "RelativeDocumentMoniker": "DATA.h",
+              "ToolTip": "E:\\Git\\MySql-Cplusplus-API\\mysql_code\\src_dll\\DATA.h",
+              "RelativeToolTip": "DATA.h",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAH8AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-06-29T14:48:34.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "src_dll.cpp",
+              "DocumentMoniker": "E:\\Git\\MySql-Cplusplus-API\\mysql_code\\src_dll\\src_dll.cpp",
+              "RelativeDocumentMoniker": "src_dll.cpp",
+              "ToolTip": "E:\\Git\\MySql-Cplusplus-API\\mysql_code\\src_dll\\src_dll.cpp",
+              "RelativeToolTip": "src_dll.cpp",
+              "ViewState": "AQIAAKIAAAAAAAAAAAAAAFEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2023-06-29T14:48:34.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.cpp",
+              "DocumentMoniker": "E:\\Git\\MySql-Cplusplus-API\\mysql_code\\test_mysql\\test.cpp",
+              "RelativeDocumentMoniker": "..\\test_mysql\\test.cpp",
+              "ToolTip": "E:\\Git\\MySql-Cplusplus-API\\mysql_code\\test_mysql\\test.cpp",
+              "RelativeToolTip": "..\\test_mysql\\test.cpp",
+              "ViewState": "AQIAAPAAAAAAAAAAAAAAABIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2023-06-29T14:48:34.867Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
